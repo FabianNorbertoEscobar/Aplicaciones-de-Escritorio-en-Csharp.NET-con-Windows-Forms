@@ -1,0 +1,9 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\bin\Debug\Combo List Picture.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\bin\Debug\Combo List Picture.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\bin\Debug\Combo List Picture.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\obj\Debug\Combo List Picture.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\obj\Debug\Combo_List_Picture.Lenguajes.resources
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\obj\Debug\Combo_List_Picture.Properties.Resources.resources
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\obj\Debug\Combo List Picture.csproj.GenerateResource.Cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\obj\Debug\Combo List Picture.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\Combo List Picture\Combo List Picture\obj\Debug\Combo List Picture.pdb

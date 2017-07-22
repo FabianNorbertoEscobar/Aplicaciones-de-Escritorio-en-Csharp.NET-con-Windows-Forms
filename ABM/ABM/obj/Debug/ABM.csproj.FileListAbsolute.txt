@@ -1,0 +1,9 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\bin\Debug\ABM.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\bin\Debug\ABM.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\bin\Debug\ABM.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\obj\Debug\ABM.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\obj\Debug\ABM.ABMAlumnos.resources
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\obj\Debug\ABM.Properties.Resources.resources
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\obj\Debug\ABM.csproj.GenerateResource.Cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\obj\Debug\ABM.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\Windows Forms - Aplicaciones de escritorio\ABM\ABM\obj\Debug\ABM.pdb

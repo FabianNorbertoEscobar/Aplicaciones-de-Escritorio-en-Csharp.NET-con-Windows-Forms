@@ -1,0 +1,9 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.Form1.resources
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.Properties.Resources.resources
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.GenerateResource.Cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.pdb
